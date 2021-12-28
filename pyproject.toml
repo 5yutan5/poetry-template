@@ -44,7 +44,7 @@ black = "^21.12b0"
 isort = "^5.10.1"
 pre-commit = "^2.16.0"
 bandit = "^1.7.1"
-pyupgrade = "^2.29.1"
+pyupgrade = "^2.30.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
